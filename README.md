@@ -2,11 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Prequisite
 
-The backend should be running on http://localhost:3005
+1.Nodejs should be installed 
 
-## Getting Started
+2.The backend should be running on http://localhost:3005
 
-First, install the dependencies the development server:
+## Running the  App
+
+First, install the dependencis:
 
 ```bash
 npm install
